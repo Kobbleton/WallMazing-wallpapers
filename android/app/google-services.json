@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "625606690178",
+    "project_id": "wallmazing-a0ea0",
+    "storage_bucket": "wallmazing-a0ea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625606690178:android:de78f88fcec01df4313b9b",
+        "android_client_info": {
+          "package_name": "com.example.wallpappers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625606690178-fdkmvgneck978nn9niq1of7l63u4pbq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU1kuzhUXz6G-o9kphniETA4NCQdCL5io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625606690178-fdkmvgneck978nn9niq1of7l63u4pbq4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625606690178-9ncte70m4l03ak9kffm4529t7nku7k9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wallpappers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
